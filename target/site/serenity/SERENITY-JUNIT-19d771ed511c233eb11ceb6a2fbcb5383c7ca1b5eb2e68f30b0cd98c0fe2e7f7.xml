@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Creation of stock" skipped="0" tests="1" time="3.3" timestamp="2022-06-30 08:41:58"><testcase name="Creation of stock with given info"><failure message="expected: &lt;200&gt; but was: &lt;500&gt;" type="org.opentest4j.AssertionFailedError">expected: &lt;200&gt; but was: &lt;500&gt;</failure><system-err>expected: &lt;200&gt; but was: &lt;500&gt;&#13;
+org.example.steps.StockStepDefinations.givenStoresIs(StockStepDefinations.java:31)&#13;
+✽.I have the following stocks in the company(file:///D:/Data/projects/Venku-programss/test-stock-application/src/test/resources/features/stock_create.feature:4)&#13;
+</system-err></testcase></testsuite>
